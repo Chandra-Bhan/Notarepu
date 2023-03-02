@@ -1,0 +1,14 @@
+STEP 1
+Create personal access token
+
+STEP2
+Check and then edit your global git config 
+
+VIEW GIT CONFIG
+git config --list 
+
+CHANGE GIT CONFIG
+
+git config --global user.name "new-user"
+git config --global user.email "new-user@gmail.com" 
+git config --global user.password "new-access-token"
